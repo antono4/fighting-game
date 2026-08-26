@@ -1,2 +1,26 @@
-Last updated: 2026-08-26 18:59:19 WIB
-Last updated: 2026-08-26 19:00:35 WIB
+# fighting-game
+
+
+
+## 📋 Overview
+
+This repository contains **31 files** and is built with the following technologies:
+
+HTML, JavaScript
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-26 19:36:47 WIB*
